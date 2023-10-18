@@ -1,3 +1,6 @@
 number = float(input("Enter number: "))
-abs_number = abs(number)
-print(f"|{number}| = {abs_number}")
+
+if number >= 0:
+    print(f"|{number}| = {number}")
+else:
+    print(f"|{number}| = {number*-1}")
