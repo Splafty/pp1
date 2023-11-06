@@ -14,4 +14,4 @@ def f(card_number):
 if __name__ == "__main__":
     card_number = "5290312400019022"
     masked_number = f(card_number)
-    print(f"(\"{card_number}\") returns \"{masked_number}\"")
+    print(f"f(\"{card_number}\") returns \"{masked_number}\"")
