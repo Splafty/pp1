@@ -4,6 +4,7 @@
 # f(1) returns 2
 # f(5) returns 11
 
+#Function checking if number is prime
 def is_prime(num):
     if num <= 1:
         return False
@@ -16,6 +17,7 @@ def is_prime(num):
 
     return True
 
+#Function returning nth prime
 def f(n):
     count = 0
     num = 2

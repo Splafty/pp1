@@ -14,3 +14,7 @@ print(f"f({n}) returns {fibonacci}")
 n = 9
 fibonacci = fibonaccicalculator.f(n)
 print(f"f({n}) returns {fibonacci}")
+
+n = 11
+fibonacci = fibonaccicalculator.f(n)
+print(f"f({n}) returns {fibonacci}")
