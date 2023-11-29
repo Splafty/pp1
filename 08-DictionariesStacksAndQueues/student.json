@@ -1,0 +1,24 @@
+{
+      "name": "Urbano",
+      "surname": "Rossander",
+      "gender": "Male",
+      "age": 25,
+      "country": "Poland",
+      "contact": {
+            "email": [
+                  "urossander0@networkadvertising.org",
+                  "urossander0@businessinsider.com"
+            ],
+            "phone": "876 895 602"
+      },
+      "languages": [
+            "English",
+            "German",
+            "Ukrainian"
+      ],
+      "studies": {
+            "semester": 4,
+            "field": "Applied Informatics",
+            "fulltime": "no"
+      }
+}
