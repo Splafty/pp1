@@ -3,7 +3,15 @@
 # Initially, the TV is turned off. 
 # Add turn_on() and turn_off() methods in the class to turn the TV on and off, respectively. 
 # Also, add a show_status() method to display whether the TV is on or off. 
-# Sample message:
+# Then, try using the TV set in the program:
+
+# a.	Create TV set
+# b.	Show TV status
+# c.	Turn TV on
+# d.	Show TV status
+# e.	Turn TV off
+# f.	Show TV status
+
 
 class TV():
     def __init__(self, brand):
@@ -30,11 +38,3 @@ tv1.show_status()
 tv1.turn_off()
 tv1.show_status()
 
-# Then, try using the TV set in the program:
-
-# a.	Create TV set
-# b.	Show TV status
-# c.	Turn TV on
-# d.	Show TV status
-# e.	Turn TV off
-# f.	Show TV status
